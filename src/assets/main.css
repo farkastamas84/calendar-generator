@@ -1,0 +1,17 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+/* in print mode, hide every child under body by default */
+@media print {
+  :root {
+    /* whithout this, the print margin is black (only in preview, not in emulation) */
+    color-scheme: light !important;
+  }
+  body > * {
+    display: none;
+  }
+}

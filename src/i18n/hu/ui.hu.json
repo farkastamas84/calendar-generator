@@ -1,0 +1,35 @@
+{
+  "country": { "AT": "Ausztria", "HU": "Magyarország" },
+  "languages": { "en": "Angol", "hu": "Magyar", "de": "Német" },
+  "labels": {
+    "uiLanguage": "Nyelv",
+    "year": "Év",
+    "country": "Ország",
+    "weekStartsOnDay": "A hét első napja",
+    "showWeekNumbers": "Hetek számozása",
+    "minimalDays": "Napok min. száma az első héten",
+    "calendarLanguage": "Naptár nyelve",
+    "layout": "Irány",
+    "avoidPageBreak": "Oldaltörés elkerülése",
+    "insideColumns": "oszlopon belül",
+    "insideRows": "soron belül",
+    "paperSize": "Papír mérete",
+    "orientation": "Tájolás",
+    "pageCountX": "Oldalak száma vízszintesen",
+    "pageCountY": "Oldalak száma függőlegesen",
+    "margin": "Margó",
+    "showPageBoundaries": "Oldalakhatárok mutatása",
+    "print": "Nyomtatás"
+  },
+  "dayOfWeek": {
+    "sunday": "Vasárnap",
+    "monday": "Hétfő",
+    "tuesday": "Kedd",
+    "wednesday": "Szerda",
+    "thursday": "Csütörtök",
+    "friday": "Péntek",
+    "saturday": "Szombat"
+  },
+  "calendarLayout": { "horizontal": "Vízszintes", "vertical": "Függőleges" },
+  "pageOrientation": { "portrait": "Álló", "landscape": "Fekvő" }
+}

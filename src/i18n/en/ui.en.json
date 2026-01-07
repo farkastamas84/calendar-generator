@@ -1,0 +1,35 @@
+{
+  "country": { "AT": "Austria", "HU": "Hungary" },
+  "languages": { "en": "English", "hu": "Hungarian", "de": "German" },
+  "labels": {
+    "uiLanguage": "UI language",
+    "year": "Year",
+    "country": "Country",
+    "weekStartsOnDay": "Week starts on",
+    "showWeekNumbers": "Show week numbers",
+    "minimalDays": "Minimal days in the first week",
+    "calendarLanguage": "Calendar language",
+    "layout": "Layout",
+    "avoidPageBreak": "Avoid page break",
+    "insideColumns": "inside columns",
+    "insideRows": "inside rows",
+    "paperSize": "Paper size",
+    "orientation": "Orientation",
+    "pageCountX": "Number of horizontal pages",
+    "pageCountY": "Number of vertical pages",
+    "margin": "Margin",
+    "showPageBoundaries": "Show page boundaries",
+    "print": "Print"
+  },
+  "dayOfWeek": {
+    "sunday": "Sunday",
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday"
+  },
+  "calendarLayout": { "horizontal": "Horizontal", "vertical": "Vertical" },
+  "pageOrientation": { "portrait": "Portrait", "landscape": "Landscape" }
+}
